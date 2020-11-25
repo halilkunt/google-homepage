@@ -79,7 +79,6 @@ form{
 }
 
 form .buttons{
-    /*align-self: center;*/
     margin-top: 2rem;
 }
 
@@ -99,16 +98,7 @@ form .search-icon {
     margin: 0 auto;
     text-align: center;
 }
-
-
-#keyboard{
-    position: absolute;
-    width: 25px;
-    bottom: -18px;
-    right: 50px;
-}
  
-
 #search{
     border-radius: 20px;
     padding-left: 50px;
